@@ -1,4 +1,4 @@
-name: js-ci
+name: js-ci Pipeline
 on: [push]
 jobs:
   test:
